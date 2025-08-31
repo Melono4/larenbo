@@ -1,6 +1,5 @@
 ---
 title: "Novaĵoj"
-order: 5
+order: 1
 in_menu: true
 ---
- 
