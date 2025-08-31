@@ -7,11 +7,11 @@ background: linear-gradient(180deg, rgba(126,187,42,0.8) 0%, rgba(126,187,42,0.5
 }
 
 body {
-background:  center url("../../images/Bendo.png") no-repeat;
+background: url("../../images/Bendo.png") no-repeat;
 }
 
 a {
-color: #FFFFFF;
+color: #ffffff;
 background-color: transparent;
 }
 
