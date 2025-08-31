@@ -7,7 +7,7 @@ background: linear-gradient(180deg, rgba(126,187,42,0.8) 0%, rgba(126,187,42,0.5
 }
 
 body {
-background:  url("../../images/Bendo.png") no-repeat;
+background: contain url("../../images/Bendo.png") no-repeat;
 }
 
 a {
