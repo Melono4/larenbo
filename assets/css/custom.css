@@ -7,7 +7,8 @@ background: linear-gradient(180deg, rgba(126,187,42,0.8) 0%, rgba(126,187,42,0.5
 }
 
 body {
-background: contain url("../../images/Bendo.png") no-repeat;
+background: url("../../images/Bendo.png") no-repeat;
+background-size: 100%;
 }
 
 a {
@@ -26,7 +27,7 @@ color: #ffffff;
 }
 
 h2 {
-color: #023020;
+color: #ffffff;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
