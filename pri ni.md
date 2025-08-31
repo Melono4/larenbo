@@ -1,5 +1,5 @@
 ---
 title: "Pri ni"
 order: 3
-in_menu: false
+in_menu: true
 ---
