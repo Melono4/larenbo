@@ -1,5 +1,5 @@
 ---
 title: "La Bona Renkontiĝo kun Stela"
 order: 2
-in_menu: false
+in_menu: true
 ---
